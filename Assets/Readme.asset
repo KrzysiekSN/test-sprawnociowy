@@ -1,4 +1,5 @@
-no cześć, chyba finito
+no cześć, chyba finito 
+wersja unity 6000.6.2f1
 
 - W jaki sposób obliczyłeś kierunek i rotację pocisku?
 	- kierunek pocisku obliczyłem używająć mathf.2tan i przeliczając to potem używając Mathf.rad2deg, 
